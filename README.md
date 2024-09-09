@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/house-rent-prediction.git
+    git clone https://github.com/Lourdhu02/mumbai_house_rent_prediction.git
     ```
 
 2. Navigate to the project directory and open the Jupyter notebook:
